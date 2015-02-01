@@ -234,11 +234,11 @@ class SpookyYard(GameArea):
 def main():
 	
 	
-	f = JFrame("Spooky Horse")
-	f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE)
-	f.setSize(300, 300)
-	f.setLocationRelativeTo(None)
-	f.setVisible(True)
+	#f = JFrame("Spooky House")
+	#f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE)
+	#f.setSize(300, 300)
+	#f.setLocationRelativeTo(None)
+	#f.setVisible(True)
 	
 	global yourName
 	global yourStreet
